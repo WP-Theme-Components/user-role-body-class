@@ -23,6 +23,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Add classes to the body based on current user role
  *
+ * @since 1.0.0
  * @param array $classes Array of body classes.
  * @return array
  */
